@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-creating-a-wheel-fitment-tool",
+        
+          title: "Creating a wheel fitment tool",
+        
+        description: "Beginniner learning to build a wheel fitment tool that I can 3d print",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/wheel-clearance-tool-3d-print/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
